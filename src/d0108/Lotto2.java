@@ -18,6 +18,12 @@ public class Lotto2 {
 				}
 			}
 		}
+		
+		for (int i = 0; i < nums.length; i++) {
+			//for (int j = 0; j <)
+
+		}
+		
 
 		for (int i = 0; i < nums.length; i++) {
 			System.out.println(nums[i]);
