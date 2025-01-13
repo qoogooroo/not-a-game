@@ -14,7 +14,7 @@ public class Input2 {
 			System.out.print("Enter your number(1~100) : ");
 			String numStr = s.nextLine();
 			int num = Integer.parseInt(numStr);
-			System.out.println("Your input : " + num);
+			System.out.print("Your input : " + num + "... So, ");
 			if(num == targetNum) {
 				System.out.println("YOU WIN!!");
 				break;
